@@ -16,7 +16,7 @@ The project uses OpenCV for webcam input and MediaPipe Hand Landmarker for detec
 - Real-time display of gesture and action
 - Simple and easy-to-use Python application
 
-##Technologies Used
+## Technologies Used
 
 - Python
 - OpenCV
